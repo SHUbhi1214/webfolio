@@ -38,7 +38,7 @@ const Navbar = () => {
         <div className="flex items-center gap-6">
           <a href="#" className="font-bold text-white">MY PORTFOLIO</a>
           <a
-  href="/Shubhi-Resume-1.pdf"
+  href="/Shubhi-Verma-Resume.pdf"
   download
   className="px-6 py-3 border border-blue-400 text-base font-semibold rounded-lg hover:bg-blue-500 hover:text-white transition duration-300"
 >
