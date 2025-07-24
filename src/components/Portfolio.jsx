@@ -15,7 +15,7 @@ const projects = [
   {
     img:ExpTracker,
     title: "Expense Tracker App",
-    description: "Users can securely log in, manage income and expenses, and view categorized financial data with interactive charts. The MERN stack powers the app with JWT auth, RESTful APIs, and a responsive UI for smooth cross-device use.",
+    description: "Users can securely log in, manage income and expenses, and view categorized financial data with interactive charts.",
     github: "https://github.com/SHUbhi1214/Expense-Tracker"
   },
   {
