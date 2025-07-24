@@ -9,7 +9,7 @@ const achievements = [
   },
   {
     Title: "Problem-solving",
-    description: "Solved over 265+ questions on LeetCode and GeeksforGeeks.",
+    description: "Solved over 350+ questions on LeetCode and GeeksforGeeks.",
   },
   {
     Title: "JEE",

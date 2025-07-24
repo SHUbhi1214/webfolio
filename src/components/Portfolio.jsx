@@ -2,7 +2,7 @@ import React from 'react';
 import { FaGithub } from "react-icons/fa";
 import { motion } from 'framer-motion';
 import airline from "../assets/airline.jpg";
-import ecom from "../assets/ecom.jpg";
+import ExpTracker from "../assets/ExpTracker.png"
 import pgperfect from "../assets/pgperfect.jpg";
 
 const projects = [
@@ -10,13 +10,13 @@ const projects = [
     img: pgperfect,
     title: "PG Perfect",
     description: "A generalised PG management and accommodation software solution to handle all tasks including rent collection and payment options.",
-    github: "https://github.com/SHUbhi1214/PG_Perfect"
+    github: "https://github.com/SHUbhi1214/PG-Perfect"
   },
   {
-    img: ecom,
-    title: "E-Commerce App",
-    description: "A full-stack MERN e-commerce platform with user authentication, admin dashboard, product listings, search and filter functionality, and secure checkout using Stripe.",
-    github: "https://github.com/SHUbhi1214/E-Commerce-App"
+    img:ExpTracker,
+    title: "Expense Tracker App",
+    description: "Users can securely log in, manage income and expenses, and view categorized financial data with interactive charts. The MERN stack powers the app with JWT auth, RESTful APIs, and a responsive UI for smooth cross-device use.",
+    github: "https://github.com/SHUbhi1214/Expense-Tracker"
   },
   {
     img: airline,
